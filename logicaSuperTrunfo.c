@@ -100,6 +100,7 @@ int main() {
     } else {
         printf("\nResultado: Empate! Ambas as cartas têm o mesmo PIB per capita.\n");
     }
+    
 
     return 0;
 }
